@@ -12,6 +12,7 @@ IT Skills
 - Java, JavaFX  
 - XML, FXML  
 - Eclipse, NetBeans  
+- Git, GitHub  
 
 **Basic knowledge of:**  
 - HTML5  
