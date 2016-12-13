@@ -2,7 +2,7 @@ Uroš Anđelić
 =====================
 **Nationality**: Serbian  
 **DoB**: 17/11/1988  
-**Email**: uroshcs@gmail.com  
+**Email**: uros.andjelic01@gmail.com  
 **Phone**: +381645288255  
 **Github**: UrosHCS  
 ***
