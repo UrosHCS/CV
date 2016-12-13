@@ -19,7 +19,8 @@ IT Skills
 - CSS  
 - JavaScript  
 - C/C++  
-- SQL  
+- SQL, NoSQL  
+- JDBC, JPA, Hibernate  
 
 Work experience
 -----
@@ -50,7 +51,7 @@ Other skills
 
 **Fluent in English**  
 
-**Computer skills:**  
+**Other computer skills:**  
 MS Office  
 Corel Draw  
 OriginLab  
