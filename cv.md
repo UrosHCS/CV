@@ -9,37 +9,29 @@ Uroš Anđelić
 IT Skills
 -----
 **Experience with**  
+- HTML, CSS (Bootstrap), JavaScript  
+- PHP (Laravel), MySQL  
 - Java, JavaFX  
-- XML, FXML  
-- Eclipse, NetBeans  
 - Git, GitHub  
-
-**Basic knowledge of:**  
-- HTML5  
-- CSS  
-- JavaScript  
-- C/C++  
-- SQL, NoSQL  
-- JDBC, JPA, Hibernate  
 
 Work experience
 -----
+2017 **Backend web developer at Software-Nation**  
+-	Mainly PHP Laravel 
 2016 **Academic title - asistant, at Military Academy Belgrade**  
 - Area - hazardous materials  
-
 
 2015 **Scientific degree - Research associate**  
 - Scientific area - energetic materials, detonation physics
 
-2012 **Research associate at Military Technical institute**  
+2012 - 2017 **Research associate at Military Technical institute**  
 - http://www.vti.mod.gov.rs/  
-- Employed indefinitely from june 12th 2012.  
 - Main duties - Research in the field of energetic materials  
 
 Education
 -----
 2014 **University of Belgrade, Faculty of physical chemistry - PhD**  
-- Currently on second year of studies  
+- Currently on third year of studies  
 
 
 2011 - 2013 **University of Belgrade, Faculty of physical chemistry - Master's degree**
@@ -50,11 +42,6 @@ Other skills
 -----
 
 **Fluent in English**  
-
-**Other computer skills:**  
-MS Office  
-Corel Draw  
-OriginLab  
 
 **Driver's licence:**  
 B category  
