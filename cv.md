@@ -17,7 +17,8 @@ IT Skills
 Work experience
 -----
 2017 **Backend web developer at Software-Nation**  
--	Mainly PHP Laravel 
+-	Mainly PHP Laravel  
+
 2016 **Academic title - asistant, at Military Academy Belgrade**  
 - Area - hazardous materials  
 
