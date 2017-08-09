@@ -9,7 +9,7 @@ Uroš Anđelić
 IT Skills
 -----
 **Experience with**  
-- HTML, CSS (Bootstrap), JavaScript, jQuery  
+- HTML, CSS (Bootstrap), JavaScript, jQuery, Ext JS  
 - PHP (Laravel, Yii), MySQL  
 - Java, JavaFX  
 - Git, SVN
