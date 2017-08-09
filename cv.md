@@ -9,15 +9,18 @@ Uroš Anđelić
 IT Skills
 -----
 **Experience with**  
-- HTML, CSS (Bootstrap), JavaScript  
-- PHP (Laravel), MySQL  
+- HTML, CSS (Bootstrap), JavaScript, jQuery  
+- PHP (Laravel, Yii), MySQL  
 - Java, JavaFX  
-- Git, GitHub  
+- Git, SVN
 
 Work experience
 -----
-2017 **Backend web developer at Software-Nation**  
--	Mainly PHP Laravel  
+2017 **Web developer at Software-Nation**  
+-	PHP Yii
+
+2017 **Web developer at Software-Nation**  
+-	PHP Laravel, Sencha Ext JS  
 
 2016 **Academic title - asistant, at Military Academy Belgrade**  
 - Area - hazardous materials  
