@@ -9,18 +9,23 @@ Uroš Anđelić
 IT Skills
 -----
 **Experience with**  
-- HTML, CSS (Bootstrap), JavaScript, jQuery, Ext JS  
+- HTML, CSS (Bootstrap), JavaScript, jQuery, Ext JS, Vue.js
 - PHP (Laravel, Yii), MySQL  
 - Java, JavaFX  
 - Git, SVN
 
 Work experience
 -----
-2017 **Web developer at Software-Nation**  
--	PHP Yii
+October 2017 **PHP developer at Diwanee Serbia, present**  
+-	PHP Zend, Smarty template engine, ElasticSearch 2, Memcached, Ext JS 2
+- Laravel 5.6 Rest API
 
-2017 **Web developer at Software-Nation**  
--	PHP Laravel, Sencha Ext JS  
+July - September 2017 **Web developer at Itaf ICT Services, total 3 months**  
+-	PHP Yii 1.1, jQuery
+
+March - June 2017 **Web developer at Software-Nation, total 4 months**  
+-	PHP Laravel 5.5
+- Sencha Ext JS 6
 
 2016 **Academic title - asistant, at Military Academy Belgrade**  
 - Area - hazardous materials  
@@ -34,8 +39,8 @@ Work experience
 
 Education
 -----
-2014 **University of Belgrade, Faculty of physical chemistry - PhD**  
-- Currently on third year of studies  
+2014 - 2017 **University of Belgrade, Faculty of physical chemistry - PhD, unfinished**  
+- Passed all exams, doctorate not finished because of career change
 
 
 2011 - 2013 **University of Belgrade, Faculty of physical chemistry - Master's degree**
