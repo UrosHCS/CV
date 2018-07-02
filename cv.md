@@ -1,7 +1,7 @@
 Uroš Anđelić
 =====================
 **Nationality**: Serbian  
-**DoB**: 17/11/1988  
+**DoB**: 1988-11-17  
 **Email**: uros.andjelic01@gmail.com  
 **Phone**: +381645288255  
 **Github**: UrosHCS  
@@ -9,16 +9,18 @@ Uroš Anđelić
 IT Skills
 -----
 **Experience with**  
-- HTML, CSS (Bootstrap), JavaScript, jQuery, Ext JS, Vue.js
+- HTML, CSS (Bootstrap), JavaScript, jQuery  
 - PHP (Laravel, Yii), MySQL  
 - Java, JavaFX  
-- Git, SVN
+- Git, SVN  
+- Some knowledge of Ext JS, Vue.js, Node.js
 
 Work experience
 -----
 October 2017 **PHP developer at Diwanee Serbia, present**  
 -	PHP Zend, Smarty template engine, ElasticSearch 2, Memcached, Ext JS 2
-- Laravel 5.6 Rest API
+- Laravel 5.6 Rest API - [api](http://54.37.227.57/documentation), [client](http://54.37.227.57:83)
+- GraphQL Laravel [package](https://packagist.org/packages/uroshcs/graphql-laravel-query-debug)
 
 July - September 2017 **Web developer at Itaf ICT Services, total 3 months**  
 -	PHP Yii 1.1, jQuery
