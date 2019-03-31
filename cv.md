@@ -8,19 +8,17 @@ Uroš Anđelić
 ***
 IT Skills
 -----
-**Experience with**  
-- HTML, CSS (Bootstrap), JavaScript, jQuery  
-- PHP (Laravel, Yii), MySQL  
-- Java, JavaFX  
-- Git, SVN  
-- Some knowledge of Ext JS, Vue.js, Node.js
+**Experience with**   
+- PHP (Laravel, Yii), MySQL, Javascript  
+- Python, Java, Node  
+- Git, GraphQL, MongoDB  
+- HTML, CSS (Bootstrap), jQuery, Vue.js, Ext JS  
 
 Work experience
 -----
 October 2017 **PHP developer at Diwanee Serbia, present**  
--	PHP Zend, Smarty template engine, ElasticSearch 2, Memcached, Ext JS 2
-- Laravel 5.6 Rest API - [api](http://54.37.227.57/documentation), [client](http://54.37.227.57:83)
-- GraphQL Laravel [package](https://packagist.org/packages/uroshcs/graphql-laravel-query-debug)
+- PHP, Laravel, MySL, MongoDB, GraphQL  
+- ElasticSearch, Javascript  
 
 July - September 2017 **Web developer at Itaf ICT Services, total 3 months**  
 -	PHP Yii 1.1, jQuery
