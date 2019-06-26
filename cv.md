@@ -4,7 +4,8 @@ Uroš Anđelić
 **DoB**: 1988-11-17  
 **Email**: uros.andjelic01@gmail.com  
 **Phone**: +381645288255  
-**Github**: UrosHCS  
+**Github**: https://github.com/UrosHCS  
+**Linkedin**: https://www.linkedin.com/in/urosandjelic  
 ***
 IT Skills
 -----
@@ -17,7 +18,7 @@ IT Skills
 Work experience
 -----
 October 2017 **PHP developer at Diwanee Serbia, present**  
-- PHP, Laravel, MySL, MongoDB, GraphQL  
+- PHP, Laravel, MySQL, MongoDB, GraphQL  
 - ElasticSearch, Javascript  
 
 July - September 2017 **Web developer at Itaf ICT Services, total 3 months**  
