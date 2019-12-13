@@ -12,11 +12,17 @@ IT Skills
 **Experience with**   
 - PHP (Laravel, Yii), MySQL, Javascript  
 - Python, Java, Node  
-- Git, GraphQL, MongoDB  
+- Git, GraphQL, MongoDB, sqlite, ElasticSearch, gRPC  
 - HTML, CSS (Bootstrap), jQuery, Vue.js, Ext JS  
 
 Work experience
 -----
+October 2019 **PHP developer at Quantox Technology, present**  
+- PHP, gRPC  
+
+October 2019 **IT Consultant at Diwanee Serbia, present**  
+- PHP, Laravel, MySQL, MongoDB, GraphQL  
+
 October 2017 **PHP developer at Diwanee Serbia, present**  
 - PHP, Laravel, MySQL, MongoDB, GraphQL  
 - ElasticSearch, Javascript  
