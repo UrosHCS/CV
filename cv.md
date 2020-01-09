@@ -6,6 +6,7 @@ Uroš Anđelić
 **Phone**: +381645288255  
 **Github**: https://github.com/UrosHCS  
 **Linkedin**: https://www.linkedin.com/in/urosandjelic  
+**Stackoverflow**: https://stackoverflow.com/users/7097045  
 ***
 IT Skills
 -----
