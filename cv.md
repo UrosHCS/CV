@@ -21,10 +21,10 @@ Work experience
 October 2019 **PHP developer at Quantox Technology, present**  
 - PHP, gRPC  
 
-October 2019 **IT Consultant at Diwanee Serbia, present**  
+October 2019 - December 2019 **IT Consultant at Diwanee Serbia**  
 - PHP, Laravel, MySQL, MongoDB, GraphQL  
 
-October 2017 **PHP developer at Diwanee Serbia, present**  
+October 2017 - September 2019 **PHP developer at Diwanee Serbia**  
 - PHP, Laravel, MySQL, MongoDB, GraphQL  
 - ElasticSearch, Javascript  
 
