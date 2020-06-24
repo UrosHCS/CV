@@ -10,16 +10,20 @@ Uroš Anđelić
 ***
 IT Skills
 -----
-**Experience with**   
-- PHP (Laravel, Yii), MySQL, Javascript  
-- Python, Java, Node  
-- Git, GraphQL, MongoDB, sqlite, ElasticSearch, gRPC  
-- HTML, CSS (Bootstrap), jQuery, Vue.js, Ext JS  
+**Extensive Experience**   
+- PHP, Laravel, MySQL, JavaScript  
+
+**Good Experience**
+- Node.js, TypeScript, Python, Java, jQuery
+- GraphQL, MongoDB, SQLite, gRPC, ElasticSearch  
+
+**Minimal Experience**
+- HTML, CSS, Vue.js, React.js 
 
 Work experience
 -----
 October 2019 **PHP developer at Quantox Technology, present**  
-- PHP, gRPC  
+- PHP, gRPC, Laravel  
 
 October 2019 - December 2019 **IT Consultant at Diwanee Serbia**  
 - PHP, Laravel, MySQL, MongoDB, GraphQL  
@@ -29,11 +33,10 @@ October 2017 - September 2019 **PHP developer at Diwanee Serbia**
 - ElasticSearch, Javascript  
 
 July - September 2017 **Web developer at Itaf ICT Services, total 3 months**  
--	PHP Yii 1.1, jQuery
+-	PHP, Yii Framework 1.1, jQuery
 
 March - June 2017 **Web developer at Software-Nation, total 4 months**  
--	PHP Laravel 5.5
-- Sencha Ext JS 6
+-	PHP Laravel, Ext JS 6
 
 2016 **Academic title - asistant, at Military Academy Belgrade**  
 - Area - hazardous materials  
