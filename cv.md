@@ -18,7 +18,7 @@ IT Skills
 - GraphQL, MongoDB, SQLite, gRPC, ElasticSearch  
 
 **Minimal Experience**
-- HTML, CSS, Vue.js, React.js 
+- HTML, CSS, Vue.js, React.js, TensorFlow 
 
 Work experience
 -----
