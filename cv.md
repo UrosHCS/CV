@@ -22,7 +22,10 @@ IT Skills
 
 Work experience
 -----
-October 2019 **PHP developer at Quantox Technology, present**  
+April 2021 **Node.js developer at Florence Healthcare, present**  
+- Node.js, MongoDB  
+
+October 2019 - March 2021 **PHP developer at Quantox Technology**  
 - PHP, gRPC, Laravel  
 
 October 2019 - December 2019 **IT Consultant at Diwanee Serbia**  
