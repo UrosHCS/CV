@@ -11,19 +11,20 @@ Uroš Anđelić
 IT Skills
 -----
 **Extensive Experience**   
-- PHP, Laravel, MySQL, JavaScript  
+- PHP, JavaScript, TypeScript  
+- Node.js, Laravel, MySQL, MongoDB  
 
 **Good Experience**
-- Node.js, TypeScript, Python, Java, jQuery
-- GraphQL, MongoDB, SQLite, gRPC, ElasticSearch  
+- Python, Java, GraphQL  
+- SQLite, gRPC, ElasticSearch  
 
 **Minimal Experience**
-- HTML, CSS, Vue.js, React.js, TensorFlow 
+- CSS, Angular.js, React.js, Vue.js, TensorFlow  
 
 Work experience
 -----
 April 2021 **Node.js developer at Florence Healthcare, present**  
-- Node.js, MongoDB  
+- Node.js, TypeScript, MongoDB  
 
 October 2019 - March 2021 **PHP developer at Quantox Technology**  
 - PHP, gRPC, Laravel  
@@ -54,7 +55,7 @@ March - June 2017 **Web developer at Software-Nation, total 4 months**
 Education
 -----
 2014 - 2017 **University of Belgrade, Faculty of physical chemistry - PhD, unfinished**  
-- Passed all exams, doctorate not finished because of career change
+- Passed all exams, but no plans to finish the doctorate because of career change.
 
 2011 - 2013 **University of Belgrade, Faculty of physical chemistry - Master's degree**
 

@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "This is my CV",
+  "main": "convert.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrosHCS/CV.git"
+  },
+  "author": "UrosHCS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrosHCS/CV/issues"
+  },
+  "homepage": "https://github.com/UrosHCS/CV#readme",
+  "dependencies": {
+    "md-to-pdf": "^3.3.2"
+  }
+}
