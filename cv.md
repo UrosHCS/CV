@@ -15,16 +15,16 @@ IT Skills
 - Node.js, Laravel, MySQL, MongoDB  
 
 **Good Experience**
-- Python, Java, GraphQL  
+- Python, Java, GraphQL, Angular  
 - SQLite, gRPC, ElasticSearch  
 
 **Minimal Experience**
-- CSS, Angular.js, React.js, Vue.js, TensorFlow  
+- CSS, React.js, Vue.js, TensorFlow  
 
 Work experience
 -----
 April 2021 **Node.js developer at Florence Healthcare, present**  
-- Node.js, TypeScript, MongoDB  
+- Node.js, TypeScript, MongoDB, Angular  
 
 October 2019 - March 2021 **PHP developer at Quantox Technology**  
 - PHP, gRPC, Laravel  
