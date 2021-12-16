@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/UrosHCS/CV#readme",
   "dependencies": {
-    "md-to-pdf": "^3.3.2"
+    "md-to-pdf": "^5.0.0"
   }
 }
