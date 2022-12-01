@@ -12,7 +12,8 @@ IT Skills
 -----
 **Extensive Experience**   
 - JavaScript, TypeScript, PHP  
-- Node.js, Laravel, MySQL, MongoDB, GraphQL  
+- Node.js, Laravel, GraphQL  
+- MySQL, PostgreSQL, MongoDB  
 
 **Good Experience**
 - ElasticSearch, Python, Java  
@@ -24,7 +25,7 @@ IT Skills
 Work experience
 -----
 November 2021 (present) **Node.js developer at Holycode, present**  
-- Node.js, TypeScript, MongoDB, Elasticsearch  
+- Node.js, TypeScript, MongoDB, Elasticsearch, GraphQL  
 
 April 2021 - November 2021 (6 months) **Node.js developer at Florence Healthcare, present**  
 - Node.js, TypeScript, MongoDB, Angular  
