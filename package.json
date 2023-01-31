@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/UrosHCS/CV#readme",
   "dependencies": {
-    "md-to-pdf": "^5.1.0"
+    "md-to-pdf": "^5.2.1"
   },
   "volta": {
-    "node": "16.14.0",
-    "npm": "8.5.2"
+    "node": "18.13.0",
+    "npm": "8.19.3"
   }
 }
