@@ -24,17 +24,15 @@ IT Skills
 - ElasticSearch
 - React, Angular
 - Python, Java
-
-**Minimal Experience**
-- CSS, Vue
+- CSS
 
 Work experience
 -----
-November 2021 (present) **Node.js developer at Holycode, present**  
+November 2021 (present) **Node.js developer at Holycode**  
 - Node.js, TypeScript, MongoDB, Elasticsearch, GraphQL, React
 - Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a variation of a chat app, tailored to a specific industry.
 
-April 2021 - November 2021 (6 months) **Node.js developer at Florence Healthcare, present**  
+April 2021 - November 2021 (6 months) **Node.js developer at Florence Healthcare**  
 - Node.js, TypeScript, MongoDB, Angular
 - Full-stack developer, working on an app for documenting clinical trials.
 
@@ -50,11 +48,11 @@ October 2017 - September 2019 (2 years) **PHP developer at Diwanee Serbia**
 - PHP, Laravel, MySQL, MongoDB, GraphQL, ElasticSearch, Javascript  
 - Backend developer working on different content management systems.
 
-July - September 2017 (3 months) **Web developer at Itaf ICT Services, total 3 months**  
+July - September 2017 (3 months) **Web developer at Itaf ICT Services**  
 -	PHP, Yii Framework 1.1, jQuery
 - Backend developer, maintaining an existing CMS-like product.
 
-March - June 2017 (4 months) **Web developer at Software-Nation, total 4 months**  
+March - June 2017 (4 months) **Web developer at Software-Nation**  
 -	PHP Laravel, Ext JS 6
 - Working on some small proof-of-concept projects, mostly developing a table UI component in Ext JS 6 framework.
 
