@@ -28,7 +28,8 @@ IT Skills
 
 Work experience
 -----
-November 2021 (present) **Node.js developer at Holycode**  
+
+November 2021 - present (1 year 6 months) **Node.js developer at Holycode**  
 - Node.js, TypeScript, MongoDB, Elasticsearch, GraphQL, React
 - Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a variation of a chat app, tailored to a specific industry.
 
@@ -37,32 +38,26 @@ April 2021 - November 2021 (6 months) **Node.js developer at Florence Healthcare
 - Full-stack developer, working on an app for documenting clinical trials.
 
 October 2019 - March 2021 (1 year 7 months) **PHP developer at Quantox Technology**  
-- PHP, gRPC, Laravel
-- Backend developer working on different projects.
+- PHP, MySQL, gRPC, Laravel
+- Backend developer working on different projects. One of the projects was breaking up a monolith app with millions of daily users into microservices.
 
-October 2019 - December 2019 (3 months) **IT Consultant at Diwanee Serbia**  
-- PHP, Laravel, MySQL, MongoDB, GraphQL
+October 2019 - December 2019 (3 months) **IT consultant at Diwanee Serbia**  
+- PHP, MySQL, MongoDB, Laravel, GraphQL
 - Working part-time, helping colleagues transition to their new project.
 
 October 2017 - September 2019 (2 years) **PHP developer at Diwanee Serbia**  
 - PHP, Laravel, MySQL, MongoDB, GraphQL, ElasticSearch, Javascript  
 - Backend developer working on different content management systems.
 
-July - September 2017 (3 months) **Web developer at Itaf ICT Services**  
+July 2017 - September 2017 (3 months) **PHP developer at Itaf ICT Services**  
 -	PHP, Yii Framework 1.1, jQuery
-- Backend developer, maintaining an existing CMS-like product.
+- PHP developer, maintaining an existing CMS-like product.
 
-March - June 2017 (4 months) **Web developer at Software-Nation**  
+March 2017 - June 2017 (4 months) **Web developer at Software-Nation**  
 -	PHP Laravel, Ext JS 6
 - Working on some small proof-of-concept projects, mostly developing a table UI component in Ext JS 6 framework.
 
-2016 **Academic title - assistant, at Military Academy Belgrade**  
-- Area - hazardous materials  
-
-2015 **Scientific degree - Research associate**  
-- Scientific area - energetic materials, detonation physics
-
-2012 - 2017 (5 years) **Research associate at Military Technical institute**  
+June 2012 - February 2017 (5 years) **Research associate at Military Technical institute**  
 - https://vti.mod.gov.rs  
 - Main duties - Research in the field of energetic materials  
 

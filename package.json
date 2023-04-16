@@ -2,9 +2,9 @@
   "name": "cv",
   "version": "1.0.0",
   "description": "This is my CV",
-  "main": "convert.js",
+  "main": "index.js",
   "scripts": {
-    "convert": "node convert.js"
+    "convert": "node index.js"
   },
   "repository": {
     "type": "git",
