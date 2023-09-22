@@ -16,24 +16,27 @@ As a software developer with 6 years of experience, I have always pushed myself 
 IT Skills
 -----
 **Extensive Experience**
-- JavaScript, TypeScript, PHP
-- Node.js, Laravel, GraphQL
-- PostgreSQL, MongoDB, MySQL
+- Programming languages: JavaScript, TypeScript, PHP
+- Databases: PostgreSQL, MongoDB, MySQL
+- Other important tech: Node.js, GraphQL, Laravel
 
 **Good Experience**
-- ElasticSearch
-- React, Angular
+- React, ElasticSearch
+- Angular, CSS
 - Python, Java
-- CSS
 
 Work experience
 -----
 
-November 2021 - present (1 year 6 months) **Node.js developer at Holycode**  
+June 2023 - present **Node.js developer at Nabis (nabis.com)**  
+- Node.js, TypeScript, PostgreSQL, GraphQL, React
+- Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a cannabis wholesale platform.
+
+November 2021 - June 2023 (1 year 7 months) **Node.js developer at Holycode**  
 - Node.js, TypeScript, MongoDB, Elasticsearch, GraphQL, React
 - Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a variation of a chat app, tailored to a specific industry.
 
-April 2021 - November 2021 (6 months) **Node.js developer at Florence Healthcare**  
+April 2021 - November 2021 (6 months) **Node.js developer at Florence Healthcare (florencehc.com)**  
 - Node.js, TypeScript, MongoDB, Angular
 - Full-stack developer, working on an app for documenting clinical trials.
 
@@ -57,13 +60,13 @@ March 2017 - June 2017 (4 months) **Web developer at Software-Nation**
 -	PHP Laravel, Ext JS 6
 - Working on some small proof-of-concept projects, mostly developing a table UI component in Ext JS 6 framework.
 
-June 2012 - February 2017 (5 years) **Research associate at Military Technical institute**  
-- https://vti.mod.gov.rs  
+June 2012 - February 2017 (5 years) **Research associate at Military Technical institute (vti.mod.gov.rs)**    
 - Main duties - Research in the field of energetic materials  
 
 Publications
 -----
-December 2022 **Data Loaders in a Graphql Server**  
+December 2022 **Data Loaders in a GraphQL Server**  
+Article about optimizing database queries in a GraphQL server.
 https://hackernoon.com/data-loaders-in-a-graphql-server
 
 Education
