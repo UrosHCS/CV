@@ -11,9 +11,9 @@
 ---
 
 **About me:**
-As a software developer with 7 years of experience, I have always pushed myself to ship the highest quality code that I could. While I co-founded a startup in the past, I have since realized that my true passion lies in technical roles. I am dedicated to staying current with industry advancements and am eager to make a positive impact through my work in software development.
+As a software developer with 8 years of experience, I have always pushed myself to ship the highest quality code that I could. While I co-founded a startup in the past, I have since realized that my true passion lies in technical roles. I am dedicated to staying current with industry advancements and am eager to make a positive impact through my work in software development.
 
-I primarily specialize in backend development but have recently transitioned to more full-stack roles.
+I primarily specialize in backend development but have solid experience in frontend as well.
 
 ## IT Skills
 
@@ -21,24 +21,30 @@ I primarily specialize in backend development but have recently transitioned to 
 
 - Programming languages: JavaScript, TypeScript, PHP
 - Databases: PostgreSQL, MongoDB, MySQL
-- Other important tech: Node.js, GraphQL, Laravel
+- Other important tech: Node.js, React, Next.js, GraphQL, Laravel
 
 **Good Experience**
 
-- React, ElasticSearch
+- AWS, Redis, ElasticSearch
 - Angular, CSS
 - Python, Java
 
 ## Work experience
 
-June 2023 - present **Full-stack Node.js developer at Nabis (nabis.com)**
+March 2024 - present **Backend Node.js developer at Zynca (zynca.com)**
+
+- Node.js, TypeScript, AWS, PostgreSQL, Redis, GraphQL, React, Next.js
+- Working primarily as a backend Node.js developer and maintaining our AWS services, with some work on the frontend side in React as well. Developing a platform for job coaching and job ads. Mainly working on a modern ATS (applicant tracking system) web application, that includes a website builder. The website builder streamlines website creation and automates deployment to user-defined subdomains.
+- Implementing LLMs in the product extensively, both as a custom chatbot and for single-purpose tasks like parsing CVs.
+
+June 2023 - March 2024 (10 months) **Full-stack Node.js developer at Nabis (nabis.com)**
 
 - Node.js, TypeScript, PostgreSQL, GraphQL, React
 - Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a cannabis wholesale platform that connects cannabis brands with dispensaries.
 
 November 2021 - June 2023 (1 year 7 months) **Full-stack Node.js developer at Holycode**
 
-- Node.js, TypeScript, MongoDB, Elasticsearch, GraphQL, React
+- Node.js, TypeScript, MongoDB, Elasticsearch, Redis, GraphQL, React
 - Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a variation of a live chat app, similar to Slack but tailored to a specific industry.
 
 April 2021 - November 2021 (6 months) **Full-stack Node.js developer at Florence Healthcare (florencehc.com)**
@@ -84,17 +90,15 @@ https://hackernoon.com/data-loaders-in-a-graphql-server
 
 ## Education
 
-2014 - 2017 **University of Belgrade, Faculty of physical chemistry - PhD, unfinished**
-
-- Passed all exams, but no plans to finish the doctorate because of career change.
+2014 - 2017 **University of Belgrade, Faculty of physical chemistry - PhD, discontinued**
 
 2011 - 2013 **University of Belgrade, Faculty of physical chemistry - Master's degree**
 
 2007 - 2011 **University of Belgrade, Faculty of physical chemistry - Bachelor's degree**
 
-## Other skills
+### Other skills: Fluent in English
 
-**Fluent in English**
+<!-- **Fluent in English** -->
 
-**Driver's license:**  
-B category
+<!-- **Driver's license:**
+B category -->
