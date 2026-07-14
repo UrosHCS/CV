@@ -1,104 +1,129 @@
 # Uroš Anđelić
 
-**Nationality**: Serbian  
-**DoB**: 1988-11-17  
-**Email**: uros.andjelic01@gmail.com  
-**Phone**: +381645288255  
-**Github**: https://github.com/UrosHCS  
-**Linkedin**: https://linkedin.com/in/urosandjelic  
-**Stackoverflow**: https://stackoverflow.com/users/7097045
+Senior Software Engineer | Backend / Full-stack | AI Integration
+
+Email: uros.andjelic01@gmail.com  
+Phone: +381 64 528 8255  
+GitHub: [github.com/UrosHCS](https://github.com/UrosHCS)  
+LinkedIn: [linkedin.com/in/urosandjelic](https://linkedin.com/in/urosandjelic)
 
 ---
 
-**About me:**
-As a software developer with 8 years of experience, I have always pushed myself to ship the highest quality code that I could. While I co-founded a startup in the past, I have since realized that my true passion lies in technical roles. I am dedicated to staying current with industry advancements and am eager to make a positive impact through my work in software development.
+## Summary
 
-I primarily specialize in backend development but have solid experience in frontend as well.
+Senior software engineer with 9 years of experience building backend-heavy products in Node.js and TypeScript, with strong full-stack range when needed. Deep experience owning systems end-to-end: architecture, data modeling, API design, infrastructure, and delivery. Currently one of the key engineers behind a greenfield ATS platform at Zynca, where I also lead AI integration work across two production chatbots and multiple LLM-powered product features. Previous roles gave me a strong foundation in high-traffic systems, API performance, search, and pragmatic product delivery across different domains.
 
-## IT Skills
+## Technical Skills
 
-**Extensive Experience**
+**Core:** TypeScript · JavaScript · Node.js · PostgreSQL · GraphQL · React · Next.js
 
-- Programming languages: JavaScript, TypeScript, PHP
-- Databases: PostgreSQL, MongoDB, MySQL
-- Other important tech: Node.js, React, Next.js, GraphQL, Laravel
+**AI / LLM:** OpenAI · Anthropic · tool-calling agents · MCP servers · prompt engineering · AI-assisted engineering workflows
 
-**Good Experience**
+**Infrastructure & Data:** AWS · Vercel · Redis · Elasticsearch · MongoDB · MySQL · Supabase
 
-- AWS, Redis, ElasticSearch
-- Angular, CSS
-- Python, Java
+**Additional:** PHP · Laravel · Angular · Python · Java · React Native · gRPC
 
-## Work experience
+## Experience
 
-March 2024 - present **Backend Node.js developer at Zynca (zynca.com)**
+### Zynca - Backend Engineer, Node.js
 
-- Node.js, TypeScript, AWS, PostgreSQL, Redis, GraphQL, React, Next.js
-- Working primarily as a backend Node.js developer and maintaining our AWS services, with some work on the frontend side in React as well. Developing a platform for job coaching and job ads. Mainly working on a modern ATS (applicant tracking system) web application, that includes a website builder. The website builder streamlines website creation and automates deployment to user-defined subdomains.
-- Implementing LLMs in the product extensively, both as a custom chatbot and for single-purpose tasks like parsing CVs.
+_Mar 2024 – Present · [zynca.com](https://zynca.com)_
 
-June 2023 - March 2024 (10 months) **Full-stack Node.js developer at Nabis (nabis.com)**
+Joined before the company pivoted to a greenfield ATS (applicant tracking system) with an integrated website builder. Since day one on the new product, I have been one of two backend engineers co-owning architecture, core backend services, and infrastructure decisions.
 
-- Node.js, TypeScript, PostgreSQL, GraphQL, React
-- Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a cannabis wholesale platform that connects cannabis brands with dispensaries.
+- Designed and implemented backend services and data models for the ATS's most domain-specific workflows, including areas far beyond standard CRUD.
+- Built the website-builder feature and automated deployment of generated sites to customer-specific subdomains.
+- Bootstrapped the admin-panel frontend from scratch, including project structure, build pipeline, and Vercel deployment, and continue contributing across the React / Next.js frontend where needed.
+- Act as the team's go-to engineer for AI integration; designed, built, and operate two production LLM chatbots grounded in platform data, both implemented as tool-calling agents.
+- Delivered LLM-powered features end-to-end, including CV parsing, job-description generation and autofill, automated job tagging, chat-message suggestions, and payload generation for external job boards.
+- Work hands-on with MCP servers, agent tooling, and orchestration across OpenAI models.
+- Interview engineering candidates and contribute to technical hiring decisions.
 
-November 2021 - June 2023 (1 year 7 months) **Full-stack Node.js developer at Holycode**
+**Stack:** Node.js, TypeScript, PostgreSQL, Redis, GraphQL, AWS, React, Next.js, Vercel
 
-- Node.js, TypeScript, MongoDB, Elasticsearch, Redis, GraphQL, React
-- Working primarily as a backend Node.js developer with some work on the frontend side in React. Developing a variation of a live chat app, similar to Slack but tailored to a specific industry.
+### Nabis - Full-stack Engineer, Node.js
 
-April 2021 - November 2021 (6 months) **Full-stack Node.js developer at Florence Healthcare (florencehc.com)**
+_Jun 2023 – Mar 2024 (10 m) · [nabis.com](https://nabis.com)_
 
-- Node.js, TypeScript, MongoDB, Angular
-- Working equally on frontend and backend. Developing an app that is used by clinical trial sites for documentation and automation of their processes.
+Worked on a cannabis wholesale platform connecting brands with dispensaries, with a backend-leaning scope and selective React frontend work.
 
-October 2019 - March 2021 (1 year 7 months) **PHP developer at Quantox Technology**
+- Owned multiple features from technical specification through implementation and deployment.
 
-- PHP, MySQL, gRPC, Laravel, Redis
-- Backend developer working on different projects. The main project was breaking up a monolith app with millions of daily users into microservices.
+**Stack:** Node.js, TypeScript, PostgreSQL, GraphQL, React
 
-October 2019 - December 2019 (3 months) **IT consultant at Diwanee Serbia**
+### Holycode - Full-stack Engineer, Node.js
 
-- PHP, MySQL, MongoDB, Laravel, GraphQL
-- Working part-time, helping colleagues transition to their new project.
+_Nov 2021 – Jun 2023 (1 y 7 m) · [holycode.com](https://www.holycode.com)_
 
-October 2017 - September 2019 (2 years) **PHP developer at Diwanee Serbia**
+Worked on an industry-specific live-chat platform, contributing primarily on the backend with regular React frontend delivery.
 
-- PHP, Laravel, MySQL, MongoDB, GraphQL, ElasticSearch, Javascript
-- Backend developer working on different content management systems. Developing workflows for content creation.
+- Led the migration of the GraphQL layer to a DataLoader-based access pattern, cutting redundant SQL queries and eliminating N+1 issues across the API.
+- Configured and tuned Elasticsearch relevance for the product's search use case, aligning results more closely with real user behavior.
+- Delivered a wide range of chat features end-to-end across backend and frontend.
 
-July 2017 - September 2017 (3 months) **PHP developer at Itaf ICT Services**
+**Stack:** Node.js, TypeScript, MongoDB, Elasticsearch, Redis, GraphQL, React
 
-- PHP, Yii Framework, MySQL, jQuery
-- Maintaining an existing CMS-like product, getting it ready for production.
+### Florence Healthcare - Full-stack Engineer, Node.js
 
-March 2017 - June 2017 (4 months) **Web developer at Software-Nation**
+_Apr 2021 – Nov 2021 (7 m) · [florencehc.com](https://florencehc.com)_
 
-- PHP, Laravel, JavaScript, Ext JS 6
-- Working on some small proof-of-concept projects, mostly developing a table UI component in Ext JS 6 framework.
+Worked across frontend and backend on a product used by clinical-trial sites to manage documentation and automate site operations.
 
-June 2012 - February 2017 (5 years) **Research associate at Military Technical institute (vti.mod.gov.rs)**
+**Stack:** Node.js, TypeScript, MongoDB, Angular
 
-- Physics, Chemistry
-- Scientific research in the field of energetic materials
+### Quantox Technology - Backend Engineer, PHP
+
+_Oct 2019 – Mar 2021 (1 y 6 m) · [quantox.com](https://www.quantox.com)_
+
+Contributed to the decomposition of a high-traffic PHP monolith serving millions of daily users into gRPC-based microservices.
+
+**Stack:** PHP, Laravel, MySQL, Redis, gRPC
+
+### Diwanee Serbia - Backend Engineer, PHP -> IT Consultant
+
+_Oct 2017 – Dec 2019 (2 y 2 m)_
+
+- Built backend functionality for CMS products and editorial workflow tooling using PHP / Laravel, MySQL, MongoDB, GraphQL, and Elasticsearch.
+- Interviewed candidates and contributed to technical hiring decisions.
+- In the final three months, worked part-time in a consulting capacity to support knowledge transfer and technical decision-making.
+
+### Itaf ICT Services - PHP Developer
+
+_Jul 2017 – Sep 2017 (3 m)_
+
+Prepared an existing CMS-style product for production using Yii Framework, MySQL, and jQuery.
+
+### Software-Nation - Web Developer
+
+_Mar 2017 – Jun 2017 (4 m)_
+
+Worked on proof-of-concept projects, primarily building a custom table UI component in Ext JS 6 alongside PHP / Laravel and JavaScript work.
+
+### Military Technical Institute - Research Associate
+
+_Jun 2012 – Feb 2017 · [vti.mod.gov.rs](https://vti.mod.gov.rs)_
+
+Conducted scientific research in detonation physics, including measurement of explosive-material characteristics and design of custom instrumentation for those experiments.
+
+## Startup Experience
+
+- **Ongoing:** Co-founder of a mobile app startup with one other engineer and a non-technical co-founder. Responsible primarily for building the product end-to-end, including the React Native app and Supabase backend, while also contributing to business and product discussions.
+
+- **2021 (~6 months):** Co-founded an early-stage social network for deals and discounts. Focused mainly on business planning, market research, and product direction, with limited hands-on development involvement. The project was closed after the exploratory phase.
 
 ## Publications
 
-December 2022 **Data Loaders in a GraphQL Server**  
-Article about optimizing database queries in a GraphQL server.
-https://hackernoon.com/data-loaders-in-a-graphql-server
+**[Data Loaders in a GraphQL Server](https://hackernoon.com/data-loaders-in-a-graphql-server)** - HackerNoon, December 2022
+Article on optimizing GraphQL database access with the DataLoader pattern, based on the production migration delivered at Holycode.
 
 ## Education
 
-2014 - 2017 **University of Belgrade, Faculty of physical chemistry - PhD, discontinued**
+**University of Belgrade, Faculty of Physical Chemistry**
 
-2011 - 2013 **University of Belgrade, Faculty of physical chemistry - Master's degree**
+- PhD programme, discontinued - 2014 – 2017
+- Master's degree - 2011 – 2013
+- Bachelor's degree - 2007 – 2011
 
-2007 - 2011 **University of Belgrade, Faculty of physical chemistry - Bachelor's degree**
+## Languages
 
-### Other skills: Fluent in English
-
-<!-- **Fluent in English** -->
-
-<!-- **Driver's license:**
-B category -->
+English - fluent · Serbian - native
