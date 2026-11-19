@@ -25,6 +25,24 @@ Senior software engineer with 9 years of experience building backend-heavy produ
 
 ## Experience
 
+### Hactually - Co-founder & Lead Engineer
+
+_Dec 2025 – Present · [hactually.com](https://hactually.com)_
+
+Co-founded a mobile app for discovering people, venues, and events in real life, launching in Dubai. Two engineers build the whole product. I own the infrastructure, the backend architecture, and I work across the React Native app, the admin panel, and compliance.
+
+- Set up all infrastructure: Supabase (Postgres, Auth, Realtime, Storage, Edge Functions) plus Google Cloud (Cloud Run API and worker services, Cloud Tasks, Secret Manager, Artifact Registry) managed with OpenTofu. Wrote a one-command deploy that applies migrations, Cloud Run services, Edge Functions, and cron jobs to preview and then production, with health checks in between.
+- Designed a modular Hono / Drizzle backend with architecture tests that enforce module boundaries, a typed API client and shared zod schemas generated for the apps, and a single cursor-pagination contract.
+- Built a transactional durable-jobs system: modules record versioned, validated jobs in the same transaction as their state change, and Cloud Tasks delivers them after commit with retries and dedupe keys.
+- Implemented venue presence: check-in range checks that account for GPS accuracy, foreground and background location heartbeats, and automatic check-out rules. Also built venue creation from Google Places with a category suitability gate.
+- Built the core social features: mutual-interest flows, venue group chats and private chats on Stream, push notifications, events with RSVPs and redeemable gifts, and credits and subscriptions through RevenueCat.
+- Built trust and safety: AI photo moderation (OpenAI) with an admin review queue, reports, blocks, and suspensions and bans. Bans keep hashed sign-in identifiers to prevent re-registration, then run full account deletion with retryable cleanup across external providers.
+- Designed the React Native (Expo) app's domain event system: one typed event stream that combines Supabase Realtime broadcasts, local mutations, and presence changes, with deduplication by event ID. Handlers keep the TanStack Query cache and UI effects consistent without per-screen sync logic.
+- Wrote the background location tracking, map and venue discovery, onboarding, chat integration, and in-app purchases on the app side, with Jest and end-to-end test suites.
+- Led compliance work: audited the Privacy Policy and Terms against the actual code, kept a register of gaps for the lawyer, implemented data-rights and retention requirements, and prepared App Store and Google Play policy reviews.
+
+**Stack:** TypeScript, Hono, Drizzle, PostgreSQL, Supabase, Google Cloud (Cloud Run, Cloud Tasks), OpenTofu, React Native, Expo, TanStack Query, RevenueCat
+
 ### Zynca - Backend Engineer, Node.js
 
 _Mar 2024 – Present · [zynca.com](https://zynca.com)_
@@ -32,11 +50,13 @@ _Mar 2024 – Present · [zynca.com](https://zynca.com)_
 Joined before the company pivoted to a greenfield ATS (applicant tracking system) with an integrated website builder. Since day one on the new product, I have been one of two backend engineers co-owning architecture, core backend services, and infrastructure decisions.
 
 - Designed and implemented backend services and data models for the ATS's most domain-specific workflows, including areas far beyond standard CRUD.
+- Iterated on the product's custom authentication system end-to-end as the product was evolving.
 - Built the website-builder feature and automated deployment of generated sites to customer-specific subdomains.
+- Implemented several integrations with third-party job boards and ATSes, as well as other types of SaaS services.
 - Bootstrapped the admin-panel frontend from scratch, including project structure, build pipeline, and Vercel deployment, and continue contributing across the React / Next.js frontend where needed.
 - Act as the team's go-to engineer for AI integration; designed, built, and operate two production LLM chatbots grounded in platform data, both implemented as tool-calling agents.
 - Delivered LLM-powered features end-to-end, including CV parsing, job-description generation and autofill, automated job tagging, chat-message suggestions, and payload generation for external job boards.
-- Work hands-on with MCP servers, agent tooling, and orchestration across OpenAI models.
+- Worked hands-on with MCP servers, agent tooling, and orchestration across OpenAI models.
 - Interview engineering candidates and contribute to technical hiring decisions.
 
 **Stack:** Node.js, TypeScript, PostgreSQL, Redis, GraphQL, AWS, React, Next.js, Vercel
@@ -107,7 +127,7 @@ Conducted scientific research in detonation physics, including measurement of ex
 
 ## Startup Experience
 
-- **Ongoing:** Co-founder of a mobile app startup with one other engineer and a non-technical co-founder. Responsible primarily for building the product end-to-end, including the React Native app and Supabase backend, while also contributing to business and product discussions.
+- **2026 (ongoing):** Co-founder of a mobile app startup with one other engineer and a non-technical co-founder. Responsible for building the product end-to-end, including the React Native app and Supabase backend, as well as being fully involved in the business and product discussions.
 
 - **2021 (~6 months):** Co-founded an early-stage social network for deals and discounts. Focused mainly on business planning, market research, and product direction, with limited hands-on development involvement. The project was closed after the exploratory phase.
 
